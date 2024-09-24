@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ripcord\\": "src/Ripcord",
+            "Ripcord\\": "src/Ripcord"
         },
         "files": ["src/Ripcord/functions.php"]
     },
